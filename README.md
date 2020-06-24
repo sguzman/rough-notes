@@ -7,3 +7,5 @@ Stuff i want
   - Nim
   - Nix
   - Haskell
+  - Racket
+  - Clojure
