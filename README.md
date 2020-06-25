@@ -1,5 +1,5 @@
 # wishlist
-Stuff i want
+Stuff i want know
 
 ## List
 - What modern language is the most expressive?
@@ -9,3 +9,4 @@ Stuff i want
   - Haskell
   - Racket
   - Clojure
+- Can all probabilistic processess be effectively simulated by a deterministic one?
