@@ -23,3 +23,4 @@ Stuff i want know
 - How to map the real line to the interval \[0,1\]?
 - Can a real function of two variables be bijectively mapped to a real function of one variable?
 - What is the connection between information and integer sequences?
+- Can all integer sequence problems be reduced to a formal language/grammar problem?
