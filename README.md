@@ -24,3 +24,5 @@ Stuff i want know
 - Can a real function of two variables be bijectively mapped to a real function of one variable?
 - What is the connection between information and integer sequences?
 - Can all integer sequence problems be reduced to a formal language/grammar problem?
+- What is the minimum requirement for there to exist a isomorphim between two structures?
+- What is the minimum requirement for there to exist a canonical isomorphim from any structure to the natural numbers or vice versa?
