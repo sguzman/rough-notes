@@ -2,6 +2,7 @@
 Stuff i want know
 
 ## List
+### Tech
 - What modern language is the most expressive?
   - Red lang
   - Nim
@@ -17,6 +18,8 @@ Stuff i want know
   - FreeBSD
   - Gentoo
   - NixOS
+
+### Math
 - Can all number theoretic problems be reduced to some canonical notation such that the act of posing the problem is solving it?
 - Can all exotic mathematical objects be uniquely mapped to natural numbers?
 - What is the relationship between information bandwidth and geometric notions of curvature?
