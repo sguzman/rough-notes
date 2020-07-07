@@ -1,5 +1,5 @@
-# wishlist
-Stuff i want know
+# Notes
+Really rough notes
 
 ## List
 ### Tech
